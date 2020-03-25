@@ -4,3 +4,9 @@
 
 /.vs
 /CharacterCreation/.vs/CharacterCreation/v16
+/CharacterCreation/CharacterCreationAPI/bin/Debug/netcoreapp3.1
+/CharacterCreation/CharacterCreationAPI/obj/Debug/netcoreapp3.1/CharacterCreationAPI.pdb
+/CharacterCreation/CharacterCreationAPI/obj/Debug/netcoreapp3.1/CharacterCreationAPI.MvcApplicationPartsAssemblyInfo.cs
+/CharacterCreation/CharacterCreationAPI/obj/Debug/netcoreapp3.1/CharacterCreationAPI.MvcApplicationPartsAssemblyInfo.cache
+/CharacterCreation/CharacterCreationAPI/obj/Debug/netcoreapp3.1/CharacterCreationAPI.exe
+/CharacterCreation/CharacterCreationAPI/obj/Debug/netcoreapp3.1/CharacterCreationAPI.dll
