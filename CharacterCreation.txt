@@ -1,0 +1,19 @@
+Character
+-CharacterName
+-race
+-class
+-ability scores
+
+class
+-className
+-Level
+-HasSpells
+-Spells*
+
+abilityscores
+-Strength (Ability {name,value})
+-Dexterity
+-Constitution
+-Intelligence
+-wisdom
+-charisma
